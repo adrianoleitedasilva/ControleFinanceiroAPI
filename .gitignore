@@ -1,0 +1,32 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+_ReSharper*/
+*.DotSettings.user
+
+## Banco de dados SQLite
+*.db
+*.db-shm
+*.db-wal
+
+## Segredos / Ambiente
+appsettings.Production.json
+*.env
+.env*
+secrets.json
+
+## NuGet
+*.nupkg
+.nuget/
+
+## Logs
+logs/
+*.log
+
+## OS
+.DS_Store
+Thumbs.db
+desktop.ini

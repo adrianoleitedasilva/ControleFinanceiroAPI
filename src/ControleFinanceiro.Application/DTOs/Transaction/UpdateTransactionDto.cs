@@ -1,0 +1,13 @@
+using ControleFinanceiro.Domain.Enums;
+
+namespace ControleFinanceiro.Application.DTOs.Transaction;
+
+public record UpdateTransactionDto(
+    string Description,
+    decimal Amount,
+    DateTime Date,
+    TransactionType Type,
+    Guid CategoryId,
+    string? Notes,
+    bool IsRecurring
+);
