@@ -1,5 +1,5 @@
 # Controle Financeiro — API
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![ControleFinanceiroAPI](https://img.shields.io/badge/Controle_Financeiro_API-5d576b?style=for-the-badge&logo=quicklook&logoColor=white)
 
 API REST para gerenciamento de finanças pessoais, construída com **C# / .NET 8** e **Minimal APIs**.
 
